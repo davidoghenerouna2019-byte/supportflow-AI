@@ -1,0 +1,6 @@
+{
+  "name": "Support Flow AI",
+  "description": "AI-powered customer support management platform with Gemini-grounded knowledge retrieval, intelligent enquiry classification, automated department routing, and human escalation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
